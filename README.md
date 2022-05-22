@@ -1,7 +1,7 @@
 # React Budget App (Test)
 To run the app, follow the instructions *
 
-All credit goes to <a href="https://www.youtube.com/watch?v=yz8x71BiGXg&t=61s" target="_blank">Web Dev Simplified</a>
+'*' All credit goes to <a href="https://www.youtube.com/watch?v=yz8x71BiGXg&t=61s" target="_blank">Web Dev Simplified</a>
 
 
 
