@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Budget App (Test)
+To run the app, follow the instructions *
+
+All credit goes to <a href="https://www.youtube.com/watch?v=yz8x71BiGXg&t=61s" target="_blank">Web Dev Simplified</a>
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
